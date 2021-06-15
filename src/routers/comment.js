@@ -33,8 +33,6 @@ router.post('/campgrounds/:id/comments', auth, function(req, res){
     });
 });
 
-
-
 module.exports = router
 
 
