@@ -79,5 +79,4 @@ router.delete('/campgrounds/:id', auth, async (req, res) => {
     }
 })
 
-
 module.exports = router
